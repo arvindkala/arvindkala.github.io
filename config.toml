@@ -3,3 +3,5 @@ languageCode = "en-us"
 title = "Art of being smart, work smart."
 publishDir = "arvindkala.github.io"
 theme = "hugo-multi-bootswatch"
+[Params]
+  Author = "Arvind Kala"
