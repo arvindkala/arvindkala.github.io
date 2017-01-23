@@ -1,6 +1,5 @@
 +++
 date = "2017-01-23T13:11:37+05:30"
-draft = true
 title = "git basics"
 
 +++
