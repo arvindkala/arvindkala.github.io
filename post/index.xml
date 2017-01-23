@@ -17,19 +17,23 @@
             <pubDate>Mon, 23 Jan 2017 13:11:37 +0530</pubDate>
             
             <guid>https://arvindkala.github.io/post/git-basics/</guid>
-            <description>&lt;p&gt;Learn more about git and the basic git commands using the following links..&lt;/p&gt;
+            <description>
+
+&lt;ol&gt;
+&lt;li&gt;&lt;h1 id=&#34;learn-more-about-git-and-the-basic-git-commands-using-the-following-links:ecdeb2d83a7cb11b0802e259083a3427&#34;&gt;Learn more about git and the basic git commands using the following links..&lt;/h1&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://git-scm.com/book/en/v2/Getting-Started-Git-Basics&#34;&gt;https://git-scm.com/book/en/v2/Getting-Started-Git-Basics&lt;/a&gt;
-&lt;a href=&#34;https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html&#34;&gt;https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html&#34;&gt;https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 
-&lt;p&gt;To ease the workflow, git-flow is used. You can have more details around it from the below links.&lt;/p&gt;
+&lt;li&gt;&lt;h1 id=&#34;to-ease-the-workflow-git-flow-is-used-you-can-have-more-details-around-it-from-the-below-links:ecdeb2d83a7cb11b0802e259083a3427&#34;&gt;To ease the workflow, git-flow is used. You can have more details around it from the below links.&lt;/h1&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://yakiloo.com/getting-started-git-flow/&#34;&gt;https://yakiloo.com/getting-started-git-flow/&lt;/a&gt;
-&lt;a href=&#34;http://danielkummer.github.io/git-flow-cheatsheet/&#34;&gt;http://danielkummer.github.io/git-flow-cheatsheet/&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;http://danielkummer.github.io/git-flow-cheatsheet/&#34;&gt;http://danielkummer.github.io/git-flow-cheatsheet/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 
-&lt;p&gt;To manage the third party libraries, with keeping that code separate from your git history, submodules are used. Have a look at the below links for more info.&lt;/p&gt;
+&lt;li&gt;&lt;h1 id=&#34;to-manage-the-third-party-libraries-with-keeping-that-code-separate-from-your-git-history-submodules-are-used-have-a-look-at-the-below-links-for-more-info:ecdeb2d83a7cb11b0802e259083a3427&#34;&gt;To manage the third party libraries, with keeping that code separate from your git history, submodules are used. Have a look at the below links for more info.&lt;/h1&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://blogs.atlassian.com/2013/03/git-submodules-workflows-tips/&#34;&gt;http://blogs.atlassian.com/2013/03/git-submodules-workflows-tips/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://blogs.atlassian.com/2013/03/git-submodules-workflows-tips/&#34;&gt;http://blogs.atlassian.com/2013/03/git-submodules-workflows-tips/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
 </description>
           </item>
         
