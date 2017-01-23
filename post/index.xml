@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Art of being smart, work smart.</title>
+    <link>https://arvindkala.github.io/post/</link>
+    <description>Recent content in Posts on Art of being smart, work smart.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 23 Jan 2017 13:11:37 +0530</lastBuildDate>
+    <atom:link href="https://arvindkala.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+      
+        
+          <item>
+            <title>git basics</title>
+            <link>https://arvindkala.github.io/post/git-basics/</link>
+            <pubDate>Mon, 23 Jan 2017 13:11:37 +0530</pubDate>
+            
+            <guid>https://arvindkala.github.io/post/git-basics/</guid>
+            <description>&lt;p&gt;Learn more about git and the basic git commands using the following links..&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://git-scm.com/book/en/v2/Getting-Started-Git-Basics&#34;&gt;https://git-scm.com/book/en/v2/Getting-Started-Git-Basics&lt;/a&gt;
+&lt;a href=&#34;https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html&#34;&gt;https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html&lt;/a&gt;&lt;/p&gt;
+</description>
+          </item>
+        
+      
+    
+  </channel>
+</rss>

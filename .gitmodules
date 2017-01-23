@@ -1,0 +1,3 @@
+[submodule "source/themes/hugo-multi-bootswatch"]
+	path = source/themes/hugo-multi-bootswatch
+	url = https://github.com/mpas/hugo-multi-bootswatch.git
