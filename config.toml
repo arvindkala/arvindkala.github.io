@@ -1,5 +1,4 @@
 baseurl = "https://arvindkala.github.io"
 languageCode = "en-us"
 title = "Art of being smart, work smart."
-publishDir: "docs"
 
