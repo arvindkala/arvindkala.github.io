@@ -1,7 +1,6 @@
 baseurl = "https://arvindkala.github.io"
 languageCode = "en-us"
 title = "Art of being smart, work smart."
-publishDir = "docs"
 theme = "hugo-multi-bootswatch"
 [Params]
   Author = "Arvind Kala"
